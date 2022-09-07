@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MyJavaApp</string>
     <string name="name">Asadbek</string>
+    <string name="mountain_image">mountain_image</string>
 </resources>
